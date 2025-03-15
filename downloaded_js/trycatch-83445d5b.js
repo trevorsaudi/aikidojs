@@ -1,0 +1,1 @@
+async function p({statusCode:c,errMessage:n},e,i=()=>{}){var a,s;try{await e()}catch(t){if(((a=t==null?void 0:t.response)==null?void 0:a.status)==c&&((s=t==null?void 0:t.response)==null?void 0:s.statusText)==n)throw t;await i()}}export{p as c};

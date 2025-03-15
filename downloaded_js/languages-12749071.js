@@ -1,0 +1,1 @@
+const A={JS:"JavaScript",TS:"TypeScript",PHP:"PHP",Java:"Java",Scala:"Scala",GO:"Go",PY:"Python",Ruby:"Ruby",".NET":".NET",RUST:"Rust",Dart:"Dart",Swift:"Swift",Elixir:"Elixir",C:"C/C++",Clojure:"Clojure",kotlin:"Kotlin"},E={...A,C:"C","C++":"C++"},a={Android:"Android",iOS:"iOS"};export{A as L,a as M,E as a};

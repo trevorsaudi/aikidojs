@@ -1,0 +1,1 @@
+import{_ as e,q as o,m as s,aa as n}from"./index-13ff96f4.js";const r={},a={class:"filter-button"};function c(t,_,l,p,f,i){return o(),s("button",a,[n(t.$slots,"default")])}const d=e(r,[["render",c]]);export{d as F};

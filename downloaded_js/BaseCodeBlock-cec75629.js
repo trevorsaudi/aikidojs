@@ -1,0 +1,1 @@
+import{_ as o,q as s,m as c,aa as r}from"./index-13ff96f4.js";const t={},a={class:"codeblock"};function n(e,_){return s(),c("pre",a,[r(e.$slots,"default")])}const d=o(t,[["render",n]]);export{d as B};

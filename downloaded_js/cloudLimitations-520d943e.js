@@ -1,0 +1,1 @@
+import{A as a}from"./index-13ff96f4.js";const n=r=>{if(!a.isPayingAndNoProTrial()||a.data.featureflags.enable_higher_cloud_limit)return!1;const e=l();return!(e===null||r<e)},l=()=>{switch(a.data.group.plan){case"standard":return 10;default:return null}};export{n as h};

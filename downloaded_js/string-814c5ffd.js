@@ -1,0 +1,1 @@
+function t(n){if(n.length==1)return n[0];const r=n.pop();return n.join(", ")+" and "+r}function o(n){if(n.length==1)return n[0];const r=n.pop();return n.join(", ")+" or "+r}function e(n){return n.replace(/[|\\{}()[\]^$+*?.]/g,"\\$&").replace(/-/g,"\\x2d")}function p(n,r){return n.split(new RegExp(`(${e(r)})`,"i"))}export{o as a,t as j,p as s};

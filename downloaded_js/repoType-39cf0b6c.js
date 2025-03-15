@@ -1,0 +1,1 @@
+import{A as e}from"./index-13ff96f4.js";function t(s){return e.data.group.scm_type!=="selfscan"&&e.data.featureflags.allow_selfscan_repos_scm_account&&s.scm_repo_uid.startsWith("selfscan_")?"selfscan":s.scm_type}export{t as g};

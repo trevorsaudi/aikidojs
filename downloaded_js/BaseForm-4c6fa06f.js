@@ -1,0 +1,1 @@
+import{_ as o,q as s,m as t,aa as a}from"./index-13ff96f4.js";const r={},c={class:"flex gap-24px flex-column"};function n(e,l,p,_,f,m){return s(),t("form",c,[a(e.$slots,"default")])}const i=o(r,[["render",n]]);export{i as B};

@@ -1,0 +1,1 @@
+function e(t,r){return!t||!t.sort?t:typeof r=="function"?f(t,r):typeof r=="string"?i(t,r):t}function f(t,r){return t.slice().sort((n,u)=>r(n)<r(u)?-1:r(n)>r(u)?1:0)}function i(t,r){return t.slice().sort((n,u)=>n[r]<u[r]?-1:n[r]>u[r]?1:0)}export{e as s};

@@ -1,0 +1,1 @@
+import{A as a}from"./index-13ff96f4.js";import{g as e}from"./dateFns-a344cb79.js";const l=s=>{if(!a.hasExpiredFullTrial(!1)||s.last_scanned_at<1)return!1;const t=e(23);return s.last_scanned_at<t};export{l as s};
